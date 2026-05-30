@@ -30,8 +30,8 @@ dependencies:
     specifier: ^10.8.0
     version: 10.8.0(nuxt@3.10.3)(vue@3.4.19)
   date-fns:
-    specifier: ^3.3.1
-    version: 3.3.1
+    specifier: ^4.4.0
+    version: 4.4.0
   nuxt:
     specifier: ^3.10.3
     version: 3.10.3(eslint@8.56.0)(typescript@5.3.3)(vite@5.1.4)(vue-tsc@1.8.27)
@@ -4265,8 +4265,8 @@ packages:
       '@babel/runtime': 7.23.9
     dev: false
 
-  /date-fns@3.3.1:
-    resolution: {integrity: sha512-y8e109LYGgoQDveiEBD3DYXKba1jWf5BA8YU1FL5Tvm0BTdEfy54WLCwnuYWZNnzzvALy/QQ4Hov+Q9RVRv+Zw==}
+  /date-fns@4.4.0:
+    resolution: {integrity: sha512-+1UMbeh68lH1SegH83CGWwpb6OHHbpSgr3+s5Eww5M4CAgswBpoWS0AjTOfEJ33HiYKz1hdj/KTFprzXHmq/6w==}
     dev: false
 
   /de-indent@1.0.2:
